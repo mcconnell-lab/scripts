@@ -1,4 +1,4 @@
-# scripts
+# Scripts for single cell CNV analysis
 step1, step2, step3, and step4 are run in succession to carry out CNV analysis of single cell whole genome sequencing data. The other scripts are invoked in the process.
 
 The following is a basic outline summarizing the analysis:
